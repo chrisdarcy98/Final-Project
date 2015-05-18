@@ -1,19 +1,19 @@
-# Final-Project
+# Final-Project: Game of War Card Game
 
 ## User Scenario
 
-## Target Users
+## Target Users: Bored Teenagers
 
-## Project Description
+## Project Description: Create the classic game of War on the phone, if time permits integrate mini games.
 
 ## Distribtuion of Work
-+ Who
++ Sam
   - What
-+ Who
++ Chris
   - What
-+ Who
++ Keegan
   - What
-+ Who
++ Abby
   - What
 
 Final Project Sketch
