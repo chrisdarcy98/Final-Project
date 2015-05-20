@@ -1,30 +1,36 @@
-# Final-Project: Game of War Card Game
+# Final-Project: Nintendo skeet shooter
 
 ## User Scenario: An individual in class who is bored wants to play a game
 
 ## Target Users: Bored Teenagers
 
-## Project Description: Create the classic game of War on the phone, if time permits integrate mini games.
+## Project Description: Create the classic game of skeet shooting on the computer, if time permits integrate power ups.
 
 ## Distribtuion of Work
-+ Sam and Chris
++ Sam
+  - 
+  - 
++ Chris
+  - Main game functioning
+  - 
++ Sam 
   - Main game functioning
   - If finished, work on mini game or tie break
-+ Abby and Keegan
++ Abby
   - Graphics
 
 Final Project Sketch
 
 
-Objective: Create a playable game of War (the card game)
+Objective: Create a classic Nintendo skeet shooter game 
 
-  -Split a deck of cards equally among the number of players
-  -compare cards
-  -winner takes all played cards
-  -must have tie breaker
+  -Calculate projectiles of bullet based on gun orientation
+  -Code ducks crossing the screen
+  -Code "collision" of duck and bullet
+  -Keep track of score
 
 Optional (time permitting)
-  -allow player to choose between top 3 cards of their deck
-  -time breaker mini-game
+  -Add power ups
+  -Create a leader board
   -beautiful graphics
-  -must prove win
+  -"Shop" to buy different shooters
