@@ -8,18 +8,15 @@
 
 ## Distribtuion of Work
 + Sam
-  - 
-  - 
+  - Shop/ various traits of shooters
 + Chris
-  - Main game functioning
-  - 
-+ Sam 
-  - Main game functioning
-  - If finished, work on mini game or tie break
+  - Progress of ducks across screen and background graphics
++ Keegan 
+  - Collision of duck and bullet
+  - Adding to overall score/coins
 + Abby
-  - Graphics
+  - Shooting of gun and projectile of bullet
 
-Final Project Sketch
 
 
 Objective: Create a classic Nintendo skeet shooter game 
