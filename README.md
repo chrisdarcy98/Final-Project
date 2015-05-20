@@ -1,6 +1,6 @@
 # Final-Project: Game of War Card Game
 
-## User Scenario
+## User Scenario: An individual in class, bored from listening to another lecture from their teacher, wants to play a game
 
 ## Target Users: Bored Teenagers
 
