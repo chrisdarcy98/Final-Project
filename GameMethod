@@ -1,0 +1,11 @@
+def MouseClicked()
+
+def Collision()
+
+def LevelPassed()
+
+def LevelSetup(int level)
+
+def Runner()
+
+def LevelPassed()
