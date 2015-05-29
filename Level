@@ -1,1 +1,4 @@
-
+class Level:
+  def __init__(self, Bird, Gun)
+    self.b = Bird
+    self.g = Gun
