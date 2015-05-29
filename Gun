@@ -1,1 +1,9 @@
+class Gun(object):
+  gun_type =
+  bullet_speed =
 
+  def _init_(self, gun_type, bullet_speed):
+    self.gun_type = gun_type
+    self.bullet_speed = bullet_speed
+
+    

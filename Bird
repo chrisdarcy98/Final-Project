@@ -1,1 +1,10 @@
+class Bird(object):
 
+  speed =
+  placement =
+  type =
+
+  def _init_(self, speed, placement, type):
+    self.speed = speed
+    self.placement = placement
+    self.type = type
