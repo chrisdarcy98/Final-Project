@@ -8,14 +8,14 @@
 
 ## Distribtuion of Work
 + Sam
-  - Shop/ various traits of shooters
+  - Create Level Passed and Level Up methods
 + Chris
-  - Progress of ducks across screen and background graphics
+  - Track mouse and mouseclicked event
 + Keegan 
   - Collision of duck and bullet
   - Adding to overall score/coins
 + Abby
-  - Shooting of gun and projectile of bullet
+  - Create main animation file and objects
 
 
 
