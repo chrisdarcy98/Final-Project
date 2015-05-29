@@ -8,7 +8,3 @@ class Bird(object):
     self.speed = speed
     self.placement = placement
     self.type = type
-
-def make_bird(speed, placement, type):
-  bird = Bird(speed, placement, type)
-  return bird
